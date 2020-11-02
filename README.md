@@ -1,1 +1,1 @@
-# udemy-react-redux-crud-application-latest
+# udemy-react-redux-crud-application
